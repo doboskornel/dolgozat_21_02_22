@@ -1,0 +1,10 @@
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\bin\Debug\DOlgozat_21_02_22.exe.config
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\bin\Debug\DOlgozat_21_02_22.exe
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\bin\Debug\DOlgozat_21_02_22.pdb
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.csprojAssemblyReference.cache
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.Form1.resources
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.Properties.Resources.resources
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.csproj.GenerateResource.cache
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.csproj.CoreCompileInputs.cache
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.exe
+C:\Users\Kornél\source\repos\DOlgozat_21_02_22\obj\Debug\DOlgozat_21_02_22.pdb
